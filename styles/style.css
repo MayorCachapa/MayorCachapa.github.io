@@ -36,10 +36,14 @@ nav li {
 
 a {
     color: #385170;
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
-    transition: 0.3 ease;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: justify;
+    text-decoration: none;    
 }
 
 li {
@@ -51,7 +55,7 @@ ul {
 }
 
 a:hover {
-    color: D23369;
+    color: #D23369;
 }
 
 #p-picture {
